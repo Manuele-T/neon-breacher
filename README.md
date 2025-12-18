@@ -1,6 +1,6 @@
 # Neon Breacher - Retro Arcade Experience
 
-![Main Menu](./screenshots/01.jpg)
+![Main Menu](./screenshots/neon_breacher.gif)
 
 Neon Breacher is a high-performance, retro-futuristic arcade shooter built to demonstrate modern web rendering techniques. It combines the reactive state management of **React** for UI with a raw **HTML5 Canvas** engine for gameplay, ensuring 60+ FPS performance with zero external asset dependencies.
 
